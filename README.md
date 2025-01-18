@@ -1,8 +1,8 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Vinicius and my nickname is "V-Brunoni"!
-
+# 👋 Opa! Seja bem vindo ao meu perfil do Github.
 
 <!--
+
+## My name is Vinicius and my nickname is "V-Brunoni"!
 **V-Brunoni/V-Brunoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
